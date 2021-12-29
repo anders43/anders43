@@ -1,4 +1,4 @@
-👋 Hi, I’m Anders. I normally code in C++ at an automation company but I do also code for fun on my sparetime. 
+👋 Hi, I’m Anders. I normally code in C++ at an automation company but I do also code for fun on my sparetime. I started coding way back in 1980 and professionally since 1986. 
 
 - 📫 anders43@gmail.com
 
